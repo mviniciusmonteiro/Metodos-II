@@ -1,2 +1,2 @@
 # Metodos II
- Repositório para a disciplina de MN II
+ Repositório para a disciplina de Métodos Numéricos II
